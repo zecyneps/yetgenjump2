@@ -1,1 +1,1 @@
-# yetgenjump2
+# Core Python 2024 YetGen
