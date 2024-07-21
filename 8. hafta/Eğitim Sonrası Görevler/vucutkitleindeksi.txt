@@ -1,0 +1,5 @@
+Zayıflar:[]
+Normal Kilo:["zeynep"]
+Fazla Kilo:[]
+Obezler:[]
+İleri derece obez:[]

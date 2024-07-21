@@ -1,0 +1,7 @@
+Make your own smoothie - 15$
+ Fruits: You can choose only 2 fruit. 3rd fruit is an extra.(2$)
+["Banana", "Strawberry", "Raspberry", "Peach", "Fig", "Orange", "Blueberry"]
+ Milk type selection. (Normal milk is free, but herbal milk is extra (3$).)
+["Normal milk", "Almond milk", "Soy milk", "Oat milk", "Lactose free milk"]
+ 2 types of carbonhydrates, 3rd one is extra (3$)
+["Oat", "Chia seeds", "Chocolate", "Wheat biscuits", "Muesli", "Bitter chocolate"]
